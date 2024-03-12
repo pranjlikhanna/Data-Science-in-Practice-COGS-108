@@ -1,6 +1,6 @@
 # What Affects Glassdoor Company Ratings? An Analysis of Data Scientist Job Postings’ Tone and Other Potential Factors
 
-## This repository contains the datasets and submissions that were made for COGS 108- Data Science in Practice (Fall 2023). The "FinalProject_Group032_FA23.ipynb" is the jupyter notebook that contains the final submission with the code and the analysis thereof.
+# This repository contains the datasets and submissions that were made for COGS 108- Data Science in Practice (Fall 2023). The "FinalProject_Group032_FA23.ipynb" is the jupyter notebook that contains the final submission with the code and the analysis thereof.
 
 ### Team Members:
 Bonan (Jack) Jia,
